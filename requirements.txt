@@ -1,0 +1,12 @@
+beautifulsoup4
+chromadb
+langchain
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+langchain_text_splitters
+langsmith
+ollama
+python-dotenv
+sentence_transformers
